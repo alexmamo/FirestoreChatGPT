@@ -27,7 +27,7 @@ Below you can find the docs for each technology that is used in this app:
 
 This repo represents the code for the following article written on the Medium publication:
 
-* [How to authenticate to Firebase using email and password in Jetpack Compose?][10]
+* [How to create a Chatbot with Firebase Firestore and ChatGPT on Android?][10]
 
 See it also on youtube:
 
@@ -65,7 +65,7 @@ The code in this project is licensed under Apache License 2.0.
 [7]: https://kotlinlang.org/docs/coroutines-overview.html
 [8]: https://kotlinlang.org/docs/flow.html
 [9]: https://developer.android.com/jetpack/compose
-[10]: https://medium.com/firebase-tips-tricks/how-to-use-firebase-cloud-messaging-on-android-d92cb4b53cfe
+[10]: https://medium.com/firebase-tips-tricks/how-to-create-a-chatbot-with-firebase-firestore-and-chatgpt-on-android-910dd40f11d9
 [11]: https://firebase.google.com/docs/android/setup
 [12]: https://developer.android.com/guide/navigation
 [13]: https://firebase.google.com/docs/functions
