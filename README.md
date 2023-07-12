@@ -1,7 +1,7 @@
 # FirestoreChatGPT
 It's an app built with [Kotlin][1] that shows how to create a Chatbot with [Firebase Firestore][14] and [ChatGPT][2] on Android using [Android Architecture Components][3] and the MVVM Architecture Pattern. For the UI it uses Jetpack Compose, Android's modern toolkit for building native UI.
 
-![alt text](https://i.ibb.co/mRZzghT/app.png)
+![alt text](https://miro.medium.com/v2/resize:fit:786/format:webp/1*S_iUd-Sqhfxy5y91yPP8hA.png)
 
 Below you can find the docs for each technology that is used in this app:
 
